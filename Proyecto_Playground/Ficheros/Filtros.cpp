@@ -107,7 +107,7 @@ void filtros() {
                         1,  0,
                         0, -1
                         });
-                }   // <-- esta llave faltaba
+                }
 
                 cv::filter2D(
                     g, x, CV_32F, kernel
