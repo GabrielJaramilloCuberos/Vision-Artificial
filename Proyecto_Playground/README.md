@@ -15,6 +15,8 @@ el resultado del procesamiento.
 
 El proyecto utiliza OpenCV 5.0.0.
 
+- Video: https://youtu.be/jcy4N3w1ISY
+
 ## Arquitectura
 
 El programa separa el menú, la interfaz compartida y los algoritmos.
